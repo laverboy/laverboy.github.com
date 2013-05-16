@@ -1,2 +1,4 @@
 _site/
 .DS_Store
+.c9revisions/
+_config.yml
